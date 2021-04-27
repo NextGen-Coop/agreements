@@ -1,6 +1,6 @@
 # WORK STATEMENT
 
-This Work Statement # (this **“Work Statement”**) is entered into pursuant to the Master Services Agreement (the **“Agreement”**) by and between NextGen Cooperative LLC (**“NextGen”**) and the client identified below (**“Client”**) and is hereby incorporated into the Agreement. 
+This Work Statement # (this **“Work Statement”**) is entered into pursuant to the Master Services Agreement (the **“[Agreement](https://github.com/NextGen-Coop/agreements/blob/main/services-agreement.md)”**) by and between NextGen Cooperative LLC (**“NextGen”**) and the client identified below (**“Client”**) and is hereby incorporated into the Agreement. 
 
 The provisions of this Work Statement govern only the subject matter hereof and not any other subject matter covered by the Agreement. Capitalized terms not otherwise defined in this Work Statement will have meanings given in the main body of the Agreement.
 
@@ -28,16 +28,15 @@ Expense Description | Cost
 Total Expenses      | $ {total expenses}
 
 * OPEN SOURCE LICENSE. Deliverables shall be licensed pursuant to the selected open source license below. If no option is selected, Deliverables shall be licensed as described in the Agreement. 
-- [ ] Apache License 2.0
-- [ ] BSD 3-Clause “New” or “Revised” License
-- [ ] BSD 2-Clause “Simplified” or “FreeBSD” License
-- [ ] GNU General Public License v2 (GPLv2) 
-- [ ] GNU General Public License v3 (GPLv3)
-- [ ] GNU Library of “Lesser” General Public License (LGPL)
-- [ ] MIT License
-- [ ] Mozilla Public License 2.0
-- [ ] Common Development and Distribution License
-- [ ] Eclipse Public License version 2.0
+- [ ] [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
+- [ ] [BSD 3-Clause “New” or “Revised” License](https://choosealicense.com/licenses/bsd-3-clause/)
+- [ ] [BSD 2-Clause “Simplified” or “FreeBSD” License](https://choosealicense.com/licenses/bsd-2-clause/)
+- [ ] [GNU General Public License v2 (GPLv2)](https://opensource.org/licenses/gpl-2.0.php) 
+- [ ] [GNU General Public License v3 (GPLv3)](https://choosealicense.com/licenses/gpl-3.0/)
+- [ ] [GNU Library of “Lesser” General Public License (LGPL)](https://choosealicense.com/licenses/lgpl-3.0/)
+- [ ] [MIT License](https://choosealicense.com/licenses/mit/)
+- [ ] [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)
+- [ ] [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
 - [ ] Other: _________________________
 
 * CLIENT MATERIALS. Client shall provide the following information and materials to NextGen:
