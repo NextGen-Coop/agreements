@@ -270,13 +270,7 @@ BY: 	___________________________	Date: _______________
 BY: 	___________________________	Date: _______________
 
 EXHIBIT A
-Cooperative Members
-
-
-Name
-Address
- Membership Date
-Capital Contribution
+(https://members.nextgen.coop/)[Cooperative Members]
 
 
 
@@ -328,6 +322,6 @@ Name
 NextGen Cooperative LLC:
 
 		Date: _____________
-President
+The Bored
 
 
