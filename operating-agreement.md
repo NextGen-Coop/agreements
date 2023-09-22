@@ -1,4 +1,5 @@
 ---
+# Intentionally left blank
 ---
 # Member Agreement
 
