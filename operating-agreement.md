@@ -270,7 +270,7 @@ BY: 	___________________________	Date: _______________
 BY: 	___________________________	Date: _______________
 
 EXHIBIT A
-[https://members.nextgen.coop/](Cooperative Members)
+[Cooperative Members](https://members.nextgen.coop/)
 
 Updated as of `2023-09-22`
 
