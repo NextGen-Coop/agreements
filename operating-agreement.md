@@ -1,6 +1,3 @@
----
-# Intentionally left blank
----
 # Member Agreement
 
 #### NextGen Cooperative LLC
