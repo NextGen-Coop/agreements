@@ -270,45 +270,14 @@ BY: 	___________________________	Date: _______________
 BY: 	___________________________	Date: _______________
 
 EXHIBIT A
-(https://members.nextgen.coop/)[Cooperative Members]
+[https://members.nextgen.coop/](Cooperative Members)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Updated as of ________
+Updated as of `2023-09-22`
 
 EXHIBIT B
 Joinder Agreement
 
-Reference is hereby made to the Member Agreement of NextGen Cooperative LLC, a limited liability company organized under the laws of Tennessee, dated ________, as it may be amended from time to time (the "Agreement"). The undersigned hereby acknowledges receipt of a complete copy of the Agreement and agrees that upon execution of this Joinder Agreement, the undersigned shall become a party to the Agreement and shall be fully bound by, and subject to, all of the covenants, terms and conditions of the Agreement as though an original party thereto and shall be deemed, and is hereby admitted as, a Member for all purposes thereof and entitled to all the rights incidental thereto. 
+Reference is hereby made to the Member Agreement of NextGen Cooperative LLC, a limited liability company organized under the laws of Tennessee, dated `2023-09-22`, as it may be amended from time to time (the "Agreement"). The undersigned hereby acknowledges receipt of a complete copy of the Agreement and agrees that upon execution of this Joinder Agreement, the undersigned shall become a party to the Agreement and shall be fully bound by, and subject to, all of the covenants, terms and conditions of the Agreement as though an original party thereto and shall be deemed, and is hereby admitted as, a Member for all purposes thereof and entitled to all the rights incidental thereto. 
 
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of _____________.
 
