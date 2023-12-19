@@ -13,7 +13,7 @@ This Member Agreement (the “Agreement”) of NextGen Cooperative LLC, a Tennes
 **Organization.** The Cooperative was formed upon the filing of Articles of Organization with the Tennessee Secretary of State on March 18, 2021. The Articles are hereby adopted and approved by the Members. The rights and obligations of the Members and the administration and termination of the Cooperative shall be governed by this Agreement, the Articles, and applicable law.
 
 ###### 1.2
-**Name and Place of Business.** The name of the Cooperative is NextGen Cooperative LLC. The Cooperative’s principal place of business shall be located at 205 Walnut Lane Ext., Dyersburg, TN 38024, or at such other place as the Bored may determine.
+**Name and Place of Business.** The name of the Cooperative is NextGen Cooperative LLC. The Cooperative’s principal place of business shall be located at 101 Burch Rd, Dyersburg, TN 38024, or at such other place as the Bored may determine.
 
 ###### 1.3
 **Purposes and Powers.** The Cooperative intends to operate as a worker Cooperative and is formed for the purpose of providing technology services, and any other lawful purposes consistent with the Articles. The Cooperative has the power to do all things necessary for or in furtherance of these purposes.
