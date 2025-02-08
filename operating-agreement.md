@@ -13,7 +13,7 @@ This Member Agreement (the “Agreement”) of NextGen Cooperative LLC, a Tennes
 **Organization.** The Cooperative was formed upon the filing of Articles of Organization with the Tennessee Secretary of State on March 18, 2021. The Articles are hereby adopted and approved by the Members. The rights and obligations of the Members and the administration and termination of the Cooperative shall be governed by this Agreement, the Articles, and applicable law.
 
 ###### 1.2
-**Name and Place of Business.** The name of the Cooperative is NextGen Cooperative LLC. The Cooperative’s principal place of business shall be located at 101 Burch Rd, Dyersburg, TN 38024, or at such other place as the Bored may determine.
+**Name and Place of Business.** The name of the Cooperative is NextGen Cooperative LLC. The Cooperative’s principal place of business shall be located at 205 Walnut Lane Ext, Dyersburg, TN 38024, or at such other place as the Bored may determine.
 
 ###### 1.3
 **Purposes and Powers.** The Cooperative intends to operate as a worker Cooperative and is formed for the purpose of providing technology services, and any other lawful purposes consistent with the Articles. The Cooperative has the power to do all things necessary for or in furtherance of these purposes.
@@ -142,7 +142,7 @@ if approved by a unanimous vote by the other Active Members. Member loans to the
 
 5.1	Board of Managers. The Cooperative is a manager-managed LLC. The business, property, and affairs of the Cooperative shall be managed, and all powers of the Cooperative shall be exercised, by or under the direction of the Bored. The Bored shall: (a) propose an annual budget to be approved by the Active Members; (b) approve new projects; (c) determine the portion of revenue from each project that will be (i) paid as wages for each sub-part of the project, and (ii) retained by the Cooperative; (d) hire and terminate non-member workers; (e) recommend prospective Members for approval; and (f) undertake all other decisions and responsibilities necessary for the management of the Cooperative, except those that are expressly reserved to the Members or as the Bored may determine should be decided or ratified by the Active Members.
 
-5.2	Number and Qualifications. The Bored shall consist of at least three (3) individuals or ten percent (10%) of the total number of Members, whichever is larger. Managers must be Active Members of the Cooperative.
+5.2	Number and Qualifications. The Bored shall consist of at least two (2) individuals or ten percent (10%) of the total number of Members, whichever is larger. Managers must be Active Members of the Cooperative.
 
 5.3	Term. Each Manager shall serve a term of two (2) years and until a successor is elected and qualified. Managers may serve unlimited consecutive terms.
 
