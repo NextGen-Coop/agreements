@@ -173,10 +173,10 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 3.5.1 Initial Members’ Contributions are as follows:
 
 | Member Name           | Contribution                              | Value of Contribution |
-| --------------------- | ----------------------------------------- | ------------ |
-| Destinee Brillian Orr | Cash and 100 hours of labor               | $2,160.00           |
-| Patrick Burch         | Cash and 100 hours of labor               | $3,000.00           |
-| Kevin Harmon          | Equipment Donation and 100 hours of labor | $3,500.00           |
+| --------------------- | ----------------------------------------- | -------------------- |
+| Destinee Brillian Orr | Cash and 100 hours of labor               | $2,160.00             |
+| Patrick Burch         | Cash and 100 hours of labor               | $3,000.00             |
+| Kevin Harmon          | Equipment Donation and 100 hours of labor | $3,500.00             |
 
 3.5.2 New Members shall fund their initial Capital Contribution, defined as the membership share price, through membership dues of three dollars ($3.00) per hour withheld from wages over five hundred (500) work hours during the candidacy period, totaling one thousand five hundred dollars ($1,500.00), as specified in Section 3.3.1.2.
 
