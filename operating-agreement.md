@@ -173,7 +173,7 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 3.5.1 Initial Members’ Contributions are as follows:
 
 | Member Name           | Contribution                              | Value of Contribution |
-| --------------------- | ----------------------------------------- | -------------------- |
+| --------------------- | ----------------------------------------- | --------------------- |
 | Destinee Brillian Orr | Cash and 100 hours of labor               | $2,160.00             |
 | Patrick Burch         | Cash and 100 hours of labor               | $3,000.00             |
 | Kevin Harmon          | Equipment Donation and 100 hours of labor | $3,500.00             |
