@@ -737,12 +737,17 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 
 **IN WITNESS WHEREOF,** the undersigned Members have executed this Agreement as of the Effective Date, affirming their commitment to its terms.
 
-__<span class="signature">Destinee Brillian Orr</span>_
+<span class="signature">Destinee Brillian Orr</span>
+
 **Destinee Brillian Orr**
 Date: March 7, 2025
-__<span class="signature">Patrick Burch</span>_________
+
+<span class="signature">Patrick Burch</span>
+
 **Patrick Burch**
 Date: March 7, 2025
-__<span class="signature">Kevin Harmon</span>__________
+
+<span class="signature">Kevin Harmon</span>
+
 **Kevin Harmon**
 Date: March 7, 2025
