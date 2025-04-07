@@ -1,296 +1,748 @@
-# Member Agreement
+# OPERATING AGREEMENT OF WORKERBEE TECH CO-OP LLC
 
-#### NextGen Cooperative LLC
+###### A Tennessee Limited Liability Company
 
-###### A Worker-Owned Tennessee Limited Liability Company
+**THIS OPERATING AGREEMENT** (the “Agreement”) is made and entered into as of the 7th day of March, 2025 (the "Effective Date"), by and between Destinee Brillian Orr, residing at 205 Pond Rd, Cottontown, TN 37048, USA, Patrick Burch, residing at 205 Walnut Lane Ext, Dyersburg, TN 38024, and Kevin Harmon, residing at 3371 Central Curve Rd, Ripley, TN 38063 each individually referred to as a "Member" and collectively as the "Members."
 
-This Member Agreement (the “Agreement”) of NextGen Cooperative LLC, a Tennessee limited liability company (the “Cooperative”) is entered into on ________ by and between the persons whose names appear in the attached Exhibit A (each a “Member” and collectively, the “Members”).
+**RECITALS**
 
-### Article I
-##### Formation and Purposes
+**WHEREAS,** the Members desire to establish a limited liability company under the laws of the State of Tennessee to provide technology services, emphasizing a worker cooperative model that promotes democratic governance, equitable profit distribution, and member participation;
 
-###### 1.1
-**Organization.** The Cooperative was formed upon the filing of Articles of Organization with the Tennessee Secretary of State on March 18, 2021. The Articles are hereby adopted and approved by the Members. The rights and obligations of the Members and the administration and termination of the Cooperative shall be governed by this Agreement, the Articles, and applicable law.
+**WHEREAS,** the Members intend to define comprehensively their rights, duties, obligations, and responsibilities concerning the formation, management, operation, and dissolution of the Company, integrating cooperative principles such as labor-based profit allocation and member-driven decision-making;
 
-###### 1.2
-**Name and Place of Business.** The name of the Cooperative is NextGen Cooperative LLC. The Cooperative’s principal place of business shall be located at 205 Walnut Lane Ext, Dyersburg, TN 38024, or at such other place as the Bored may determine.
+**WHEREAS,** the initial Members, Destinee Brillian Orr, Kevin Harmon, and Patrick Burch, commit to contributing their skills, resources, and labor to the Company, with three additional tentative Members pending confirmation, to be admitted under the terms herein;
 
-###### 1.3
-**Purposes and Powers.** The Cooperative intends to operate as a worker Cooperative and is formed for the purpose of providing technology services, and any other lawful purposes consistent with the Articles. The Cooperative has the power to do all things necessary for or in furtherance of these purposes.
+**WHEREAS,** the Members seek to establish a flexible yet robust governance structure that balances cooperative ideals with the legal and operational requirements of a Tennessee limited liability company;
 
-###### 1.4
-**Term.** The term of the Cooperative is indefinite and shall continue until terminated under the terms of this Agreement or as provided by law.
+**NOW, THEREFORE,** in consideration of the mutual promises, covenants, and agreements herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Members agree as follows:
 
-###### 1.5
-**Federal Tax Status.** The Cooperative shall be taxed as a C corporation for federal tax purposes and operated on a Cooperative basis under Subchapter T of the Internal Revenue Code. 
+### ARTICLE 1: FORMATION AND PURPOSE
 
-###### 1.6
-**Registered Agent.** The Cooperative shall maintain a registered agent. The Cooperative’s initial registered agent in the State of Tennessee is Patrick Burch.
+**1.1 Formation**
 
-### Article II
-###### Definitions
+1.1.1 The Company is formed as a limited liability company pursuant to the Tennessee Revised Limited Liability Company Act, codified at Tenn. Code Ann. § 48-249-101 et seq. (the "Act"), effective upon the filing of the Articles of Organization with the Tennessee Secretary of State on or about March 7, 2025.
 
-2.1	The following terms are defined as set forth below:
+1.1.2 The Members hereby adopt, ratify, and approve the Articles of Organization, and all rights, duties, liabilities, and obligations of the Members and the Company shall be governed by this Agreement, the Articles, and the Act, in that order of precedence.
 
-“Active Member” means any Member who is not an Inactive Member under Section 3.6 (“Inactive Members”).
+1.1.3 Any amendments to the Articles shall be filed promptly with the Tennessee Secretary of State and reflected in this Agreement as necessary.
 
-“Agreement” has the meaning set forth in the Preamble.
+**1.2 Name**
 
-“Articles” means the Articles of Organization of the Cooperative.
+1.2.1 The legal name of the Company shall be "WorkerBee Tech Co-op LLC," reflecting its cooperative nature and technological focus.
 
-“Board” means the Board of Managers of the Cooperative.
+1.2.2 The Board of Managers may, by majority vote, alter the Company name, provided such change complies with Tennessee law and is filed with the Secretary of State.
 
-“Bored” (sic) means the Board of Managers.
+1.2.3 The Company may use trade names or "doing business as" designations as approved by the Board, subject to registration requirements under Tenn. Code Ann. § 48-249-106.
 
-“Capital Account” means, with respect to each Member, the separate “book” account for such Member to be established and maintained in all events in accordance with Treasury Regulation § 1.704-1(b)(2)(iv), as amended, and other applicable provisions of Treasury Regulation § 1.704-1(b). 
+**1.3 Principal Place of Business**
 
-“Capital Contribution” means the amount contributed by a Member to the Cooperative, in the form of cash, property, or promissory notes or other obligations, as set forth in Exhibit A. Member loans to the Cooperative are not Capital Contributions.
+1.3.1 The principal office of the Company shall be located at 205 Pond Rd, Cottontown, TN 37048, USA, serving as the primary administrative and operational hub.
 
-“Code” means the Internal Revenue Code of 1986, as now in effect or may hereinafter be amended, or any successor revenue law.
+1.3.2 The Board of Managers may relocate the principal office by majority vote, notifying all Members within ten (10) business days of such decision via written or electronic notice.
 
-“Collective Account” means the Surplus, Profit, and reserves that are retained in the Cooperative as working capital and not allocated or distributed to Members.
+1.3.3 Additional offices or places of business may be established as determined by the Board to facilitate the Company’s operations.
 
-“Cooperative” has the meaning set forth in the Preamble.
+**1.4 Purpose**
 
-“Electronic Transmission” means any form of communication not directly involving the physical transmission of paper that creates a record that may be retained, retrieved and reviewed by a recipient of the communication, and that may be directly reproduced in paper form by such a recipient through an automated process.
+1.4.1 The Company is organized to provide technology services, including software development, web and mobile application development, IT consulting, and related services, with a focus on small to medium-scale projects.
 
-“Inactive Member” means a Member who meets the criteria set forth in Section 3.6 (“Inactive Members”).
+1.4.2 The Company shall operate as a worker cooperative, prioritizing employment opportunities for Members, equitable distribution of profits based on labor contributions, and democratic governance.
 
-“Joinder Agreement” means the Joinder Agreement attached as Exhibit B.
+1.4.3 The Company may engage in any other lawful business activities permitted by the Act and consistent with the Articles, as approved by the Board and Active Members.
 
-“Managers” means the individuals elected to the Bored of the Cooperative.
+**1.5 Term**
 
-“Member” has the meaning set forth in the Preamble.
+1.5.1 The Company’s term shall commence on the Effective Date and continue perpetually unless terminated pursuant to Article 7 or as required by the Act.
 
-“Membership” means the state of being a Member.
+1.5.2 The Members intend for the Company to endure beyond the involvement of any individual Member, subject to the dissolution provisions herein.
 
-“Membership Interest” means a Member’s collective rights in the Cooperative, including (a) economic interest; (b) right to vote or participate in management; and (c) any right to information concerning the Cooperative’s business and affairs.
+**1.6 Registered Agent and Office**
 
-“Patronage Contribution” means the amount (in hours) of labor actually contributed by a Member to the Cooperative and documented by Member time sheets or customer work site records that specify the date, time, and nature of the work performed.
+1.6.1 The initial registered agent for service of process shall be Destinee Brillian Orr, with the registered office at 205 Pond Road Cottontown, TN 37048, unless otherwise designated by the Board.
 
-“Patronage Dividends” shall have the definition contained in § 1388(a) of the Code.
+1.6.2 The Board shall ensure continuous appointment of a registered agent in Tennessee, updating the Secretary of State within thirty (30) days of any change per Tenn. Code Ann. § 48-249-109.
 
-“Profit” means the excess of revenues and gains over expenses and losses for a fiscal year attributable to non-Member labor. 
+1.6.3 The registered office may differ from the principal office but must comply with statutory requirements.
 
-“Prospective Member in Training” means an individual enrolled in the Cooperative’s technology training program.
+**1.7 Tax Status**
 
-“Subscription Fee” means the price of purchasing and retaining a Membership Interest in the Cooperative, as set forth in Section 3.5 (“Subscription Fee”).
+1.7.1 The Cooperative shall be taxed as a C corporation for federal tax purposes and operated on a Cooperative basis under Subchapter T of the Internal Revenue Code (IRC).
 
-“Surplus” means the excess of revenues and gains over expenses and losses for a fiscal year attributable to Member labor. 
+1.7.2 The Board shall consult with tax professionals to determine the optimal tax structure, filing necessary elections with the Internal Revenue Service (IRS) within applicable deadlines.
 
-“Transfer” means to sell, hypothecate, pledge, assign, attach, or otherwise transfer, whether voluntarily or involuntarily.
+### ARTICLE 2: DEFINITIONS
 
-### Article III
-###### Membership Interests
+**2.1 Defined Terms**
 
-3.1	Member Classes. There shall be two (2) classes of Membership: Active Members and Inactive Members. All Members shall be Active Members unless classified as Inactive Members under Section 3.6 (“Inactive Members”).
+For the purposes of this Agreement, the following terms shall have the meanings set forth below unless the context clearly indicates otherwise:
 
-3.2	Membership Qualifications. Members shall be natural persons who (a) work on behalf of the Cooperative, (b) have completed the candidacy period in Section 3.3 (“Membership Candidacy Period”), unless waived by the Bored, (c) have been accepted for admission under Section 3.4 (“Admission of New Members”), (d) have paid any Subscription Fee required under Section 3.5 (“Subscription Fee”), unless waived by the Bored and ratified by the Active Members as presenting a financial hardship to the worker, and (e) have signed this Agreement or the Joinder Agreement attached as Exhibit B, as well as any other documents required by the Bored.
+2.1.1 "Act" means the Tennessee Revised Limited Liability Company Act, Tenn. Code Ann. § 48-249-101 et seq., as amended.
 
-3.3	Membership Candidacy Period. A worker may be considered for Membership after completing a candidacy period of one thousand (1,000) work hours. The Bored shall determine whether and how many work hours performed by a Prospective Member in Training shall count towards the candidacy period. The candidacy period may be partially or fully waived if the worker is competent in their technical area or has recruited clientele to the Cooperative, provided that the waiver is approved by the Bored and the Active Members.
+2.1.2 "Active Member" means a Member currently employed by or actively providing labor to the Company, retaining full voting and participation rights, unless classified as an Inactive Member under Article 3, Section 6.
 
-Upon completion of the candidacy period, the Cooperative will notify the worker in writing of his or her option to apply for Membership under Section 3.4 (“Admission of New Members”) and provide the worker with a copy of this Agreement. The worker may apply for Membership at any time after completing their candidacy period. 
+2.1.3 "Articles" means the Articles of Organization of the Company filed with the Tennessee Secretary of State, including all amendments thereto.
 
-3.4	Admission of New Members. The Bored may set forth any reasonable application procedures for admission to the Cooperative. The Cooperative may admit a worker as a new Member with (a) the recommendation of the Bored, (b) a seventy-five percent (75%) vote of Active Members, and (c) upon satisfaction of all qualifications set forth in Section 3.2 (“Membership Qualifications”). New Members shall be bound by this Agreement, including all current and future amendments. Exhibit A shall be amended to reflect the admission of new Members.
+2.1.4 "Board" or "Board of Managers" means the elected group of Active Members responsible for managing the Company’s business and affairs under Article 5.
 
-3.5	Subscription Fee. Members shall pay the Cooperative a non-refundable Subscription Fee each year. The Subscription Fee shall be determined by the Bored but shall not exceed $100 without the approval of the Active Members.
+2.1.5 "Capital Account" means the individual account maintained for each Member, tracking contributions, allocations, and distributions, in accordance with Treasury Regulation § 1.704-1(b)(2)(iv).
 
-3.6 	Inactive Members. Inactive Members are Members who have: (a) provided seven (7) days’ notice to the Bored of their intent to take a leave of absence from their work for the Cooperative, which shall last no longer than three (3) years; (b) been deemed Inactive Members by the Bored after at least thirty (30) days of inactivity or fourteen (14) days of non-responsiveness while assigned to an active project; or (c) been suspended by the Bored under Section 3.8 (“Suspension of a Member”). Inactive Members are not eligible to vote on any matter and may not work for the Cooperative or serve as Managers or Officers; they shall be deemed to have resigned from any such position upon becoming an Inactive Member. Inactive Members may request their return to Active Member status at any time. Reinstatement of Active Membership is subject to the discretion of the Bored.
+2.1.6 "Capital Contribution" means any cash, property, or services contributed by a Member to the Company, including amounts withheld from wages under the Withholding System, as documented in Exhibit A.
 
-3.7	Termination of Membership. Membership in the Cooperative shall terminate upon the following events: (a) death of the Member; (b) the Member’s delivery to the Bored of a notice of resignation, which shall be effective immediately unless the notice specifies a later date; (c) failure of an Inactive Member under Section 3.6(b) to resume Active Member status by the end of the fiscal year or sixty (60) days, whichever is longer; or (d) removal by the Cooperative as set forth in Section 3.9 (“Removal of a Member”).
+2.1.7 "Collective Account" means the Company’s internal reserve of Surplus, Profit, and other funds retained for working capital, operational needs, or contingencies, not distributed to Members.
 
-3.8 	Suspension of a Member. If the Bored determines that a Member has engaged in unlawful or improper conduct (including but not limited to harassment), or that their continued Membership would be harmful or disruptive to the Cooperative, the Bored may suspend the Member by a two-thirds (2/3) vote. Upon suspension, the Member shall automatically become an Inactive Member. The Bored shall promptly notify the Members of the suspension and refer the matter to the Members for a removal vote under Section 3.9 (“Removal of a Member”). At any point before the Member is removed, the Bored may reverse its suspension, upon which the Member will resume Active Member status. 
+2.1.8 "Electronic Transmission" means any communication (e.g., email, secure digital platform) that creates a retrievable record, compliant with Tenn. Code Ann. § 48-249-103(8).
 
-3.9	Removal of a Member. A Member who has been suspended by the Bored under Section 3.8 (“Suspension of a Member”) may be removed by the vote of seventy-five percent (75%) of Active Members.
+2.1.9 "Inactive Member" means a Member who has ceased active labor contributions due to leave, inactivity, or suspension, as defined in Article 3, Section 6.
 
-3.10	Reinstatement of a Member. A Member who has been terminated as set forth in Section 3.7 (“Termination of Membership”) may be reinstated as an Active Member by a two-thirds (2/3) vote of the Active Members.
+2.1.10 "Joinder Agreement" means the document in Exhibit B executed by new Members to bind them to this Agreement.
 
-3.11	Payment on Termination. If a Member’s Membership is terminated for any reason, the Member’s Capital Account balance as of the end of the most recent fiscal quarter will automatically convert to debt owed to the former Member. The Cooperative shall repay the debt within three (3) years of termination, with interest accruing at the discount rate set by the Federal Reserve Bank of Atlanta on the Capital Account balance at the end of each fiscal year. The Bored, in so settling the Member’s Capital Account balance, shall have the right to set off any and all indebtedness of the Member to the Cooperative. The Member shall not be entitled to any other payment under this Agreement.
+2.1.11 "Manager" means an individual elected to serve on the Board of Managers under Article 5.
 
-3.12	Transfer Prohibited. No Member may Transfer his or her Membership Interest in whole or in part.
+2.1.12 "Member" means a natural person admitted to the Company under Article 3, listed in Exhibit A, whether Active or Inactive.
 
-3.13	Limited Liability. The Members shall not be liable for the debts, obligations, losses, liabilities, or expenses of the Cooperative except as expressly provided by this Agreement or applicable law. 
+2.1.13 "Membership Interest" means a Member’s aggregate rights in the Company, including economic interests, voting rights, management participation, and access to Company information.
 
-### Article IV
-###### Allocations and Distributions
+2.1.14 "Patronage Contribution" means the documented hours of labor contributed by a Member to the Company, tracked via time sheets, project logs, or client records specifying date, time, and work performed.
 
-4.1	Capital Accounts. The Cooperative shall establish and maintain an individual Capital Account for each Member. The balance of a Member’s Capital Account shall be credited by (a) any Capital Contribution made by the Member, and (b) the amount of any written notice of allocation of Patronage Dividends to the Member. The balance shall be debited by (a) losses allocated to the Member, and (b) payment in cash or other property of Patronage Dividends. 
+2.1.15 "Patronage Dividends" means distributions of Surplus allocated to Members based on their Patronage Contributions, meeting the definition under IRC § 1388(a) if taxed as a cooperative.
 
-4.2	Capital Contributions. No Member shall be required to make any Capital Contribution. A Member may make a Capital Contribution with unanimous consent of the Members. Members have no right to withdraw Capital Contributions. 
+2.1.16 "Profit" means the excess of revenues over expenses for a fiscal year attributable to non-Member labor, determined under GAAP.
 
-4.3	Determination of Surplus and Profit. Surplus and Profit shall be determined in accordance with generally accepted accounting principles and shall be computed without regard to any Patronage Dividends, Capital Contributions, or income taxes. 
+2.1.17 "Surplus" means the excess of revenues over expenses for a fiscal year attributable to Member labor, determined under GAAP.
 
-4.4	Allocation of Profit. Any Profit shall be credited to the Collective Account, unless otherwise determined by the Bored. 
+2.1.18 "Transfer" means to sell, assign, pledge, hypothecate, or otherwise dispose of a Membership Interest, whether voluntarily or involuntarily.
 
-4.5	Allocation of Surplus. Any Surplus shall be credited to the Collective Account as necessary to bring the year’s contribution to the Collective Account up to twenty-five percent (25%) of the year’s combined Profit and Surplus, or such other percentage as the Bored may determine and the Active Members ratify. All other Surplus shall be allocated as Patronage Dividends in direct proportion to the Patronage Contributions of the Members during the fiscal year.
+2.1.19 "Withholding System" means the mechanism by which a Board-determined percentage of a Member’s wages is deducted and credited as a Capital Contribution to their Capital Account.
 
-4.6	Allocation of Loss. Any loss shall be allocated seventy-five percent (75%) to Capital Accounts in direct proportion to Patronage Contributions during the fiscal year and twenty-five percent (25%) to the Collective Account, or such other percentages as the Bored may determine. If a loss is debited to an individual Capital Account that represents Surplus previously credited to the Member in the form of a non-qualified written notice of allocation, the Member will either be directed by the Bored to pay an assessment to cover the loss (resulting in a reduction in current tax liability), or the loss will be carried back or forward.
+**2.2 Interpretation**
 
-4.7	Patronage Dividends. Patronage Dividends may be issued in the form of qualified written notices of allocation and/or non-qualified written notices of allocation, as the Bored may determine. A written notice of allocation is a certificate issued to each Member specifying the amount and type of the Patronage Dividend allocated to the Member. In all cases, at least twenty percent (20%) of the amount of qualified written notices of allocation must be paid to the Member in cash within 8.5 months of the end of the fiscal year. 
+2.2.1 Terms not defined herein shall have their ordinary legal meaning under Tennessee law unless context dictates otherwise.
 
-4.8	Periodic Payment of Capital Accounts. The Cooperative shall aim to distribute in cash or other property to the Members all amounts credited to their Capital Accounts (except Capital Contributions) within three (3) years of the date they were first credited. As a general rule, written notices of allocation credited to Capital Accounts (including notices converted to debt upon Membership termination) will be paid out in the order in which they are credited, with the oldest paid out first; however, the Bored may decide to accelerate the repayment of debt owed to former Members on a case by case basis. The Cooperative shall not make payments that would result in (a) the Cooperative’s inability to pay its debts as they become due, (b) the Cooperative’s total liabilities exceeding its total assets, or (c) any violation of applicable law. If the Cooperative does not have sufficient funds to pay out all funds credited to Capital Accounts for a given fiscal year, then funds will be paid out in proportion to the balance in the Capital Accounts.
-	
-4.9	Member Covenant to Declare Income for Tax Purposes. Each Member shall include on his or her income tax return the amount of any qualified written notices of allocation (as defined in § 1388 of the Code) at their stated dollar amounts in the manner provided in § 1385(a) of the Code in the taxable year in which such qualified written notices of allocation are received by the Member.
+2.2.2 References to statutes include all amendments and successor provisions.
 
-4.10	Unclaimed Equity Interests. Any proprietary interest in the Cooperative held by a Member that would otherwise escheat to the State of Tennessee as unclaimed personal property shall instead become the property of the Cooperative if the Cooperative gives at least sixty (60) days prior notice of the proposed Transfer to the affected Member by (a) first-class mail to the last address of the Member shown on the Cooperative’s records, and (b) by publication in a newspaper of general circulation in the county in which the Cooperative has its principal office. No property or funds shall become the property of the Cooperative if written notice objecting to the Transfer is received by the Cooperative from the affected Member prior to the date of the proposed Transfer.
+### ARTICLE 3: MEMBERSHIP
 
-4.11	Member Loans. Members may issue short-term, interest-free loans to the Cooperative 
-if approved by a unanimous vote by the other Active Members. Member loans to the Cooperative will not be credited to the Member’s Capital Account. The Bored shall have discretion to negotiate the terms of any such loan.
+**3.1 Membership Classes**
 
-### Article V
-###### Board of Managers
+3.1.1 The Company shall recognize two distinct classes of Members: Active Members and Inactive Members.
 
-5.1	Board of Managers. The Cooperative is a manager-managed LLC. The business, property, and affairs of the Cooperative shall be managed, and all powers of the Cooperative shall be exercised, by or under the direction of the Bored. The Bored shall: (a) propose an annual budget to be approved by the Active Members; (b) approve new projects; (c) determine the portion of revenue from each project that will be (i) paid as wages for each sub-part of the project, and (ii) retained by the Cooperative; (d) hire and terminate non-member workers; (e) recommend prospective Members for approval; and (f) undertake all other decisions and responsibilities necessary for the management of the Cooperative, except those that are expressly reserved to the Members or as the Bored may determine should be decided or ratified by the Active Members.
+3.1.2 All Members shall be classified as Active Members unless they meet the criteria for Inactive status under Section 6 of this Article.
 
-5.2	Number and Qualifications. The Bored shall consist of at least two (2) individuals or ten percent (10%) of the total number of Members, whichever is larger. Managers must be Active Members of the Cooperative.
+**3.2 Initial Members**
 
-5.3	Term. Each Manager shall serve a term of two (2) years and until a successor is elected and qualified. Managers may serve unlimited consecutive terms.
+3.2.1 The initial Members of the Company are Destinee Brillian Orr, Kevin Harmon, and Patrick Burch, as detailed in Exhibit A, effective as of the Effective Date.
 
-5.4	Election. The Active Members shall elect each Manager by a majority vote. In the event of a vacancy on the Bored due to resignation or removal, the Active Members may elect a Manager to fill the remainder of the term.
+3.2.2 Three additional tentative Members are under consideration, to be admitted upon satisfying the requirements of Section 4 below and updating Exhibit A accordingly.
 
-5.5	Removal. A Manager may be removed by a seventy-five percent (75%) vote of all Active Members. Any Active Member may request a removal vote for any reason, but the Member must state the reason when notice of the vote is given. The Bored may remove a Manager who has failed to respond to Bored communications or otherwise perform their Manager duties for a period of fourteen (14) days and has not responded within twenty-four (24) hours to a notice of pending removal delivered at the conclusion of such fourteen (14) day period. 
+**3.3 Membership Qualifications**
 
-5.6	Resignation. A Manager may resign effective upon giving written notice to the Bored. Unless the notice specifies a later effective date, the Manager shall be deemed to have resigned immediately upon resignation. A Manager whose Membership is terminated under Section 3.7 (“Termination of Membership”) or who has become an Inactive Member subject to Section 3.6 (“Inactive Members”) is deemed to have resigned from the Bored on the date that the Manager is no longer an Active Member.
+3.3.1 To qualify for Membership, an individual must:
 
-5.7	Duties. The Bored shall do all things necessary to ensure the Cooperative’s compliance with this Agreement and all applicable law. Managers shall have duties of care, loyalty, good faith, and candor to the Cooperative. The fact that a Manager is employed by or otherwise works for another technology services company shall not in itself be deemed a violation of the duty of loyalty, provided that the Manager discloses such work to the Bored.
+3.3.1.1 Be a natural person actively employed by or providing labor to the Company;
 
-5.8	Management Meetings. The President shall set the date and time of meetings, which shall be preceded by two (2) days’ notice. Meetings may be held by teleconference or any other electronic means by which the participants can simultaneously hear each other. Participation by such means shall constitute presence at the meeting in person. Unless the Bored determines by a unanimous vote that the minutes should be kept confidential due to sensitivity of the content, all meeting minutes shall be provided to the Membership by email or shared on a group website or file sharing service (such as a Discord channel) within seven (7) days of the meeting. The Bored must hold at least one (1) Management Meeting per year.
+3.3.1.2 Complete a candidacy period by contributing five hundred (500) work hours to the Company, during which membership dues of three dollars ($3.00) per hour are withheld from their wages, totaling one thousand five hundred dollars ($1,500.00), unless waived by the Board for demonstrated technical competence or client recruitment;
 
-5.9	Waiver of Notice. A Manager may waive notice by (a) executing a written waiver before or after the meeting, which is then filed in the records of the Cooperative, or (b) attending the meeting. 
+3.3.1.3 Be admitted pursuant to the procedures in Section 4 upon completion of the candidacy period and payment of the full $1,500 membership share price through the dues described in Section 3.3.1.2;
 
-5.10	Quorum. A presence of a majority of Managers then serving shall constitute a quorum for the transaction of business at a meeting. 
+3.3.1.4 Execute this Agreement or the Joinder Agreement attached as Exhibit B, along with any additional documents required by the Board.
 
-5.11	Voting. Each Manager shall have one vote. The affirmative vote of a majority of Managers in attendance at a meeting at which a quorum is present shall be an act of the Bored. 
+3.3.2 Upon completion of the five hundred (500) work hours and payment of the $1,500 membership share price via withheld dues, the candidate shall be eligible for admission as an Active Member, subject to the admission process in Section 4.
 
-5.12	Action Without a Meeting. The Bored may act without a meeting if (a) each Manager receives notice of the proposed action, (b) the number of Managers that would be sufficient to approve the measure at a meeting submits one or more written consents to the proposed action, and (c) such written consents are filed in the records of the Cooperative.
+3.3.3 The Board may establish supplemental qualifications (e.g., specific skills, certifications) by majority vote, subject to Active Member ratification by a majority vote.
 
-5.13	Compensation. Managers may be paid reasonable compensation for management services. The Cooperative shall reimburse Managers and their agents for reasonable expenses actually incurred on behalf of the Cooperative or in the fulfillment of their duties to the Cooperative as such. 
+3.3.4 Membership dues of $3 per hour shall cease upon completion of the candidacy period and admission as a Member, with no further automatic wage withholdings required unless additional Capital Contributions are approved per Article 4, Section 4.2.
 
-5.14	Conflicts of Interest. If a Manager has a conflict of interest with respect to any contemplated transaction, the following steps shall be taken: (a) the Manager shall disclose the conflict and all material facts pertaining to the conflict to the Bored; (b) the Manager must recuse himself or herself from the deliberations and vote on the transaction, except to provide information requested by the Bored; and (c) disinterested Managers must approve the transaction. A conflict of interest exists when a Manager has a material financial interest in the transaction (other than as a Member of the Cooperative) or if other circumstances exist that could reasonably be expected to impair the Manager’s impartiality with respect to the transaction. 
- 
-### Article VI
-###### Officers
+**3.4 Admission of New Members**
 
-6.1	Officers Generally. The Bored shall designate a President (a/k/a Captain), Treasurer (a/k/a Quartermaster), and Secretary (a/k/a Sailing Master), as well as other officers the Bored may deem advisable. All Officers shall be chosen from among the Bored. The same person may hold more than one office, but may not execute, acknowledge, or verify any instrument in more than one capacity. 
+3.4.1 The Board shall develop and maintain written application procedures, including forms, deadlines, and evaluation criteria, available to all prospective Members.
 
-6.2	Term. The Officers shall serve until removed by the Bored or their delivery of a written notice of resignation to the Bored. The Bored may remove an Officer with or without cause. Resignation shall be effective immediately unless the notice of resignation specifies a later effective date.
+3.4.2 Admission of a new Member requires:
 
-6.3	President (a/k/a Captain). The President shall: (a) preside at and conduct all meetings of the Bored and Members; and (b) have authority to sign and execute, in the name of the Cooperative, all deeds, mortgages, bonds, contracts, and other instruments to be executed on the Cooperative’s behalf.
+3.4.2.1 A formal recommendation by a majority vote of the Board of Managers;
 
-6.4.	Treasurer (a/k/a Quartermaster). The Treasurer shall: (a) ensure timely and adequate financial management and reporting; (b) keep and maintain full and accurate books and records of account of the Cooperative; (c) provide an account of all transactions and financial statements to the Bored upon request; (d) receive and give receipts for monies due to the Cooperative; (e) deposit all monies and other valuables in the name and to the credit of the Cooperative in such banks or other depositories as may be designated by the Bored; (f) disburse the Cooperative’s funds as the Bored may request; (g) advise the Bored of any significant financial matters that require action by the Bored; and (h) generally perform all duties incident to the office of treasurer and such other duties as may be assigned by the Bored. 
+3.4.2.2 Approval by a seventy-five percent (75%) vote of Active Members at a duly called meeting or via written consent;
 
-6.5	Secretary (a/k/a Sailing Master). The Secretary shall: (a) keep accurate records and minutes of all meetings, proceedings, and actions of the Bored and Members; (b) in advance of each Bored and Member meeting, distribute minutes of the previous meeting; (c) deliver all notices of Bored and Member meetings to those persons entitled to vote at such meetings; (d) maintain the minutes and a current listing, with contact information, of the Cooperative’s Members and Bored; (e) authenticate records of the Cooperative; and (f) generally perform all duties incident to the office of secretary and such other duties as may be assigned by the Bored.
+3.4.2.3 Full compliance with all qualifications under Section 3.3, including completion of the candidacy period and payment of the $1,500 membership share price via withheld dues.
 
-6.6	Compensation. Managers may be paid reasonable compensation for management services. The Cooperative shall reimburse Managers and their agents for reasonable expenses actually incurred on behalf of the Cooperative or in the fulfillment of their duties to the Cooperative as such. 
+3.4.3 Upon admission, new Members shall be bound by this Agreement, including all current and future amendments, and Exhibit A shall be amended to reflect their inclusion within ten (10) business days.
 
-### Article VII
-###### Member Governance
+3.4.4 The Board shall notify the new Member in writing or via Electronic Transmission within five (5) business days of approval, providing copies of this Agreement and related documents.
 
-7.1	Annual Meeting. The Active Members shall hold an annual meeting at a fixed time each year. The Active Members may set the time for such a meeting by any method they deem advisable. The Active Members may also delegate the setting of the annual meeting to the Bored. Should a quorum not be reached at the set meeting time, the Active Members shall set a new meeting as soon as practicable.
+**3.5 Capital Contributions**
 
-7.2	Special Meetings. The Active Members may hold special meetings for any lawful purpose. Special meetings may be called by the Bored or by twenty percent (20%) or more of the Active Members.
+3.5.1 Initial Members’ Contributions are as follows:
 
-7.3	Notice. Active Members shall be entitled to written notice of the annual Member meetings at least fourteen (14) days in advance for any Annual Member meeting and seven (7) days in advance for special meetings. Such notice shall include the date, time, location, means of remote communication, meeting agenda, and text of any proposed amendments to the Articles or this Agreement.
+| Member Name           | Contribution                              | Value of Contribution |
+| --------------------- | ----------------------------------------- | --------------------- |
+| Destinee Brillian Orr | Cash and 100 hours of labor               | $2,160.00             |
+| Patrick Burch         | Cash and 100 hours of labor               | $3,000.00             |
+| Kevin Harmon          | Equipment Donation and 100 hours of labor | $3,500.00             |
 
-7.4	Waiver of Notice. Members may waive notice of a meeting by (a) executing a waiver before or after the meeting that is filed in the records of the Cooperative, or (b) attending the meeting.
+3.5.2 New Members shall fund their initial Capital Contribution, defined as the membership share price, through membership dues of three dollars ($3.00) per hour withheld from wages over five hundred (500) work hours during the candidacy period, totaling one thousand five hundred dollars ($1,500.00), as specified in Section 3.3.1.2.
 
-7.5 	Quorum. At all meetings, the presence of a majority of the Active Members shall constitute a quorum for the transaction of business. 
+3.5.3 The $1,500 membership share price represents the full initial Capital Contribution required for Membership, credited to the Member’s Capital Account upon admission per Article 4, Section 1.
 
-7.6	Voting. Each Active Member shall have one (1) vote. Except as otherwise provided in this Agreement, the affirmative vote of a majority of the Active Members at a meeting at which a quorum is present shall constitute an action by the Members. 
+3.5.4 No additional membership dues or withholdings shall be required beyond the $1,500 membership share price unless additional Capital Contributions are approved under Article 4, Section 4.2.
 
-7.7	Remote Participation. Active Members may participate in any meeting and vote by means of teleconference or any other remote communications system that enables all participants to simultaneously hear each other. Participation by such means shall constitute presence in person at a meeting.
+3.5.5 Contributions shall be documented in the Company’s records and reflected in each Member’s Capital Account per Article 4, Section 1, with updates provided quarterly by the Treasurer.
 
-7.8	Action Without a Meeting. The Active Members may act without a meeting if (a) the Bored delivers a notice to each Active Member describing the action to be taken and the deadline for submitting a vote, (b) the Members have at least seven (7) days to submit their votes; (c) the number of Active Members that would be sufficient to approve the measure at a meeting submit ballots with affirmative votes on or before the deadline, and (d) all submitted votes are filed in the records of the Cooperative. Votes may be submitted through a shared electronic platform provided that workers are subject to an identity authentication process.	
+**3.6 Inactive Members**
 
-7.9	Proxies. Active Members may vote by proxy. Proxy appointments must be executed in writing by the Member and delivered to the Cooperative before or at the meeting. No proxy shall be valid after eleven months from the date of its execution, unless otherwise provided in the proxy appointment.
+3.6.1 A Member shall be classified as an Inactive Member if they:
 
-7.10	Required Member Approval. The following shall require approval by the Active Members: (a) annual budgets proposed by the Bored; (b) admission and removal of Members; (c) approval of compensation for Manager services; (d) other matters where this Agreement expressly requires Member approval; and (e) any additional matters that the Bored, in its sole discretion, refers to the vote of the Active Members. 
+3.6.1.1 Submit written notice to the Board of a leave of absence, effective seven (7) days after receipt, not to exceed three (3) years unless extended by Board approval;
 
-7.11	Disclosure on Demand. Each Member shall have the right to make reasonable demands of the Bored for information related to the Cooperative’s affairs.
+3.6.1.2 Are deemed inactive by a majority vote of the Board after thirty (30) consecutive days without documented labor contributions or fourteen (14) days of non-responsiveness during an assigned project, with prior notice to the Member;
 
-### Article VIII
-###### Indemnification and Insurance
+3.6.1.3 Are suspended under Section 8 of this Article.
 
-8.1	Indemnification. The Cooperative may indemnify, in part or in whole, any person who was or is a party to or is threatened to be made a party to any threatened, pending, or completed action, suit, or proceeding by reason of the fact that he or she was a Member, Manager, or Officer of the Cooperative. Indemnification must be approved by the Bored after a finding that the person to be indemnified acted in good faith. 
+3.6.2 Inactive Members shall:
 
-8.2	Insurance. The Cooperative may purchase directors and officers, errors and omissions, comprehensive commercial liability insurance, and any other policy as the Bored determine is prudent, containing such terms, policy limits, and exclusions as are customary and commercially reasonable. 
+3.6.2.1 Lose all voting rights on Company matters;
 
-### Article IX
-###### Dissolution
+3.6.2.2 Be ineligible to work for the Company or serve as Managers;
 
-9.1	Events of Dissolution. Unless the Members elect to continue the Cooperative, the Cooperative shall be dissolved upon the occurrence of any of the following: (a) the unanimous consent of the Active Members; (b) any event that makes it unlawful or impossible to continue the Cooperative’s operations; or (c) the sale, disposition, or abandonment of all or substantially all of the Cooperative’s assets without replacement within a reasonable time. 
+3.6.2.3 Automatically resign from any Manager position upon becoming Inactive.
 
-9.2	Distribution of Assets upon Dissolution. Upon the Cooperative’s dissolution, the assets of the Cooperative (including cash or property received upon the sale or other disposition of assets in anticipation of or in connection with such dissolution) shall be applied as follows: (a) first, to repay any indebtedness of the Cooperative, whether to third parties or to the Members, in the order of priority required by law; (b) second, to any reserves that the Bored deems reasonably necessary for contingent or unforeseen liabilities or obligations of the Cooperative (which reserves when they become unnecessary shall be distributed in accordance with the provisions of (c) and (d) of this subsection); (c) third, to the Members in the amounts of their positive Capital Account balances; and (d) to the current and former living Members in proportion to their aggregate Patronage Contributions during their Membership in the Cooperative. Liquidating distributions to the Members may be made in cash or in kind, or partly in cash and partly in kind, as determined by the Bored. 
+3.6.3 An Inactive Member may request reinstatement to Active status by submitting a written request to the Board, which shall decide by majority vote within thirty (30) days, considering the Member’s prior contributions and Company needs.
 
-### Article X
-###### Books and Records
+**3.7 Termination of Membership**
 
-10.1	Bank Accounts. All Cooperative funds shall be deposited and maintained in one or more bank or investment accounts opened in the Cooperative’s name. The Bored shall determine the financial institution(s) at which accounts will be maintained, the type(s) of account(s), and the person(s) who will have deposit and withdrawal authority.
+3.7.1 Membership shall terminate upon the occurrence of any of the following events:
 
-10.2	Maintenance of Books and Records. The Cooperative shall maintain the following records at its principal office or in a digital format on a secure server: (a) complete and accurate books and records of accounts; (b) the Articles, this Agreement, and all amendments thereto; (c) meeting minutes and resolutions of the Bored and Members; (d) a record of Members’ names and essential contact information; and (e) other documents as are required under the applicable law and as necessary and appropriate consistent with prudent business practices. The Cooperative’s books, records, financial statements, and other documents shall be available for inspection by the Members at the Cooperative’s principal office or on the secured server.
+3.7.1.1 Death of the Member, effective immediately upon notification to the Board;
 
-10.3	Fiscal Year. The Cooperative’s fiscal year shall begin on January 1st and end on December 31st of each year.
+3.7.1.2 Delivery of a written resignation notice to the Board, effective upon receipt unless a later date is specified, not to exceed thirty (30) days;
 
-10.4	Method of Accounting. The Cooperative’s accounting records shall be kept in a method to be determined by the Bored upon the advice of the Cooperative’s accountant and subject to the requirements and limitations of applicable law. 
+3.7.1.3 Failure of an Inactive Member under Section 3.6.1.2 to resume Active status within sixty (60) days or by the end of the fiscal year, whichever is longer, unless extended by the Board;
 
-10.5	Notices. Except as provided in Section 4.10 (“Unclaimed Equity Interests”), all notices or other communications required under this Agreement shall be in writing and shall be considered effective upon the following: (a) hand delivery to the recipient’s address on file with the Cooperative; (b) immediately upon Electronic Transmission; or (c) three (3) business days after deposit in U.S. mail, registered or certified, postage prepaid, and properly addressed to the recipient’s address on file with the Cooperative. 
+3.7.1.4 Removal pursuant to Section 9 of this Article.
 
-### Article XI
-###### Miscellaneous Provisions
+3.7.2 Upon termination, the Member’s Capital Account balance shall be handled per Article 4, Section 8, and Exhibit A shall be updated within ten (10) business days.
 
-11.1	Amendments to this Agreement and Articles. This Agreement and the Articles may only be amended by a seventy-five percent (75%) vote of the Active Members, except that the Bored may revise Exhibit A without approval. 
+**3.8 Suspension of a Member**
 
-11.2	Entire Agreement. This Agreement constitutes the complete agreement between the Members as to the subject matter and supersedes all prior written and oral statements, including any prior representation, statement, condition, or warranty.
+3.8.1 The Board may suspend a Member by a two-thirds (2/3) vote if it determines that the Member has:
 
-11.3	Governing Law. This Agreement and the rights and obligations hereunder shall be governed by the laws of Tennessee, without regard to conflicts of law principles. Any matter not specifically addressed in this Agreement shall be governed by the Tennessee Revised Limited Liability Company Act.
+3.8.1.1 Engaged in unlawful conduct (e.g., theft, fraud) or improper behavior (e.g., harassment, discrimination) materially affecting the Company;
 
-11.4	Execution of Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original, and all of which shall together constitute one and the same instrument.
+3.8.1.2 Posed a significant risk of harm or disruption to the Company’s operations or reputation.
 
-11.5	Waiver. No failure or delay in enforcing any provision of this Agreement shall operate as a waiver thereof. Any waiver must be in writing and shall only apply to the instance specified in such writing.
+3.8.2 Suspension shall take effect immediately upon the Board’s vote, rendering the Member Inactive, with written notice provided to the Member and all Active Members within five (5) business days.
 
-11.6	Assignment. This Agreement binds the parties hereto and their respective heirs, executors, administrators, representatives, successors, and assigns.
+3.8.3 The Board shall refer the matter to Active Members for a removal vote under Section 9 within thirty (30) days of suspension.
 
-11.7	Severability. This Agreement is severable. If any provision of this Agreement is deemed invalid under the law of any jurisdiction, such invalidity shall not impair the operation of or affect those provisions of the Agreement that are valid.
+3.8.4 The Board may reverse a suspension by majority vote prior to removal, reinstating the Member to Active status with full rights restored.
 
-11.8	Compliance with Law. The Bored shall execute all certificates and other documents and shall do all such filing, recording, publishing, and other acts as are appropriate to comply with the requirements of law for the Cooperative’s formation and operation and to comply with any laws, rules, and regulations as may be required to carry out the intent and purpose of this Agreement, including, but not limited to, the acquisition, operation, or holding of the Cooperative’s property.
+**3.9 Removal of a Member**
 
-11.9	No Third-Party Rights. This Agreement is made solely and specifically among and for the benefit of the Members and the Cooperative, and no other person will have any rights, interest, or claims hereunder or be entitled to any benefits under or on account of this Agreement as a third-party beneficiary or otherwise. Nothing in this Agreement is intended to be for the benefit of any creditor or other person (other than the Members in their capacity as such) to whom or which any debts, liabilities, or obligations are owed by (or who or which otherwise has any claim against) the Cooperative or the Members; and no such creditor or other person shall obtain any right hereunder against the Cooperative or any Member by reason of any debt, liability, or obligation.
+3.9.1 A suspended Member may be removed by a seventy-five percent (75%) vote of Active Members at a meeting called for that purpose or via written consent.
 
+3.9.2 Notice of the removal vote shall be provided to all Active Members at least ten (10) days in advance, including the basis for suspension and proposed removal.
 
-IN WITNESS WHEREOF, the Members have executed this Agreement to be effective as of the date first set forth above.
+3.9.3 Upon removal, the Member’s Membership Interest terminates, and Capital Account repayment proceeds per Article 4, Section 8.
 
-BY: 	___________________________	Date: _______________
+**3.10 Reinstatement of a Member**
 
-BY: 	___________________________	Date: _______________
+3.10.1 A terminated Member may seek reinstatement by submitting a written request to the Board within one (1) year of termination, outlining their intent to resume active participation.
 
-BY: 	___________________________	Date: _______________
+3.10.2 Reinstatement requires a two-thirds (2/3) vote of Active Members at a meeting or via written consent, considering the Member’s prior conduct and Company needs.
 
-BY: 	___________________________	Date: _______________
+3.10.3 Reinstated Members resume Active status, with Capital Accounts restored to their pre-termination balance, adjusted for any prior distributions.
 
-BY: 	___________________________	Date: _______________
+**3.11 Transfer of Membership Interest**
 
-EXHIBIT A
-[Cooperative Members](https://members.nextgen.coop/)
+3.11.1 No Member may Transfer their Membership Interest, in whole or in part, without the unanimous written consent of the Board and all Active Members.
 
-Updated as of `2025-02-08`
-
-EXHIBIT B
-Joinder Agreement
+3.11.2 Any attempted Transfer without consent shall be void, and the purported transferee shall have no rights in the Company.
 
-Reference is hereby made to the Member Agreement of NextGen Cooperative LLC, a limited liability company organized under the laws of Tennessee, dated `2023-12-19`, as it may be amended from time to time (the "Agreement"). The undersigned hereby acknowledges receipt of a complete copy of the Agreement and agrees that upon execution of this Joinder Agreement, the undersigned shall become a party to the Agreement and shall be fully bound by, and subject to, all of the covenants, terms and conditions of the Agreement as though an original party thereto and shall be deemed, and is hereby admitted as, a Member for all purposes thereof and entitled to all the rights incidental thereto. 
+3.11.3 This restriction ensures the cooperative nature of Membership remains intact.
 
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of _____________.
+**3.12 Limited Liability**
 
+3.12.1 Members shall not be personally liable for the debts, obligations, or liabilities of the Company beyond their Capital Contributions, except as expressly provided in this Agreement or required by the Act (e.g., personal guarantees).
 
-NEW MEMBER:
+3.12.2 This limitation shall not affect Members’ obligations to the Company under this Agreement, such as repayment of offsets per Article 4, Section 8.
 
-		Date: _____________
-Name
+### ARTICLE 4: CAPITAL CONTRIBUTIONS AND ACCOUNTS
 
+**4.1 Capital Accounts**
 
-NextGen Cooperative LLC:
+4.1.1 The Company shall establish and maintain an individual Capital Account for each Member in accordance with Treasury Regulation § 1.704-1(b)(2)(iv) and GAAP.
 
-		Date: _____________
-The Bored
+4.1.2 Each Capital Account shall be:
 
+4.1.2.1 Credited with the Member’s Initial Capital Contributions (including the $1,500 membership share price for new Members), additional approved Capital Contributions, and allocations of Surplus or Patronage Dividends;
 
+4.1.2.2 Debited by losses allocated to the Member and distributions of cash, property, or Patronage Dividends.
+
+4.1.3 The Treasurer shall update Capital Accounts quarterly and provide Members with statements within thirty (30) days of each fiscal quarter-end.
+
+**4.2 Initial Capital Contributions**
+
+4.2.1 The Initial Contributions of the founding Members are detailed in Article 3, Section 5.1, credited as of the Effective Date.
+
+4.2.2 For new Members, the Initial Capital Contribution shall be the membership share price of one thousand five hundred dollars ($1,500.00), payable through membership dues of three dollars ($3.00) per hour withheld from wages over five hundred (500) work hours during the candidacy period, as specified in Article 3, Section 3.3.1.2.
+
+4.2.3 No Member may withdraw their Initial Capital Contribution, including the $1,500 membership share price, without the unanimous written consent of all Active Members, documented in the Company’s records.
+
+4.2.4 Additional Capital Contributions beyond the Initial Contribution:
+
+4.2.4.1 Shall not exceed one thousand five hundred dollars ($1,500.00) per Member without prior approval;
+
+4.2.4.2 May be proposed by the Board or any Member in the form of cash, property, or services, up to the $1,500 cap, and accepted by a majority vote of the Board;
+
+4.2.4.3 Amounts exceeding $1,500 per Member require approval by a seventy-five percent (75%) vote of Active Members at a duly called meeting or via written consent, with the value and terms (e.g., cash, in-kind) specified in the approval notice.
+
+4.2.5 All additional Capital Contributions shall be voluntary, and no Member shall be obligated to contribute beyond the $1,500 membership share price unless approved under Section 4.2.4.3.
+
+4.2.6 The Board shall maintain a record of all Contributions, updating Exhibit A and notifying Members within ten (10) business days of any approved additional Contributions.
+
+**4.3 Withholding System Replaced by Membership Dues**
+
+4.3.1 The previously contemplated Withholding System is replaced by the membership dues structure outlined in Article 3, Section 3.3.1.2, wherein new Members pay dues of three dollars ($3.00) per hour for five hundred (500) work hours during the candidacy period, totaling the $1,500 membership share price.
+
+4.3.2 No ongoing wage withholdings shall apply to Active Members post-admission unless additional Capital Contributions are approved per Section 4.2.4.
+
+4.3.3 During the candidacy period, withheld dues shall be:
+
+4.3.3.1 Deducted from wages earned on Company projects at the rate of $3.00 per hour worked;
+
+4.3.3.2 Deposited monthly into the Company’s designated account and credited to the candidate’s provisional Capital Account;
+
+4.3.3.3 Fully credited as the $1,500 membership share price upon completion of 500 hours and admission as a Member.
+
+4.3.4 If a candidate fails to complete the candidacy period, withheld dues shall be refunded, less any administrative costs (not to exceed $50), within thirty (30) days of termination of candidacy, unless the Board determines otherwise by majority vote.
+
+**4.4 Determination of Surplus and Profit**
+
+4.4.1 Surplus and Profit shall be calculated annually as of December 31, based on the Company’s financial statements prepared under GAAP.
+
+4.4.2 The calculation shall exclude Capital Contributions, Patronage Dividends, and income taxes, focusing solely on operational revenues and expenses.
+
+4.4.3 The Treasurer shall present preliminary determinations to the Board within sixty (60) days of fiscal year-end, with final approval by the Board and ratification by Active Members at the annual meeting.
+
+**4.5 Allocation of Profit**
+
+4.5.1 Profit (from non-Member labor) shall be credited entirely to the Collective Account to support Company growth, unless the Board, by majority vote and with Active Member ratification, directs otherwise.
+
+4.5.2 Any deviation from this allocation shall be documented in the annual financial report, specifying the amount and purpose (e.g., special projects, reserves).
+
+**4.6 Allocation of Surplus**
+
+4.6.1 Surplus (from Member labor) shall be allocated as follows:
+
+4.6.1.1 A minimum of twenty-five percent (25%) to the Collective Account, adjustable by the Board with seventy-five percent (75%) Active Member approval, to ensure operational stability;
+
+4.6.1.2 The remainder as Patronage Dividends, distributed to Active Members in proportion to their Patronage Contributions for the fiscal year.
+
+4.6.2 The Board shall determine the exact percentage for the Collective Account by March 31 of the following year, notifying Members within ten (10) business days.
+
+**4.7 Allocation of Losses**
+
+4.7.1 Losses attributable to non-Member labor shall be allocated fully to the Collective Account, preserving Member Capital Accounts.
+
+4.7.2 Losses attributable to Member labor shall be allocated:
+
+4.7.2.1 Seventy-five percent (75%) to Capital Accounts, proportional to each Member’s Patronage Contributions for the year;
+
+4.7.2.2 Twenty-five percent (25%) to the Collective Account, unless the Board adjusts these percentages with Active Member approval.
+
+4.7.3 If a loss exceeds a Member’s Capital Account balance, the Board may assess the Member to cover the deficit or carry the loss forward, notifying the Member within thirty (30) days.
+
+**4.8 Payment on Termination**
+
+4.8.1 Upon termination of Membership, the Member’s Capital Account balance as of the most recent fiscal quarter shall automatically convert to a debt owed by the Company.
+
+4.8.2 The Company shall repay this debt:
+
+4.8.2.1 Within three (3) years of termination, in equal annual installments unless accelerated by the Board;
+
+4.8.2.2 With simple interest at the Federal Reserve Bank of Atlanta discount rate, calculated annually on the outstanding balance.
+
+4.8.3 The Board may offset any debts owed by the Member to the Company (e.g., unpaid assessments) against this amount, providing a detailed accounting to the former Member within sixty (60) days of termination.
+
+4.8.4 No other payments (e.g., goodwill, future profits) shall be due unless expressly agreed by the Board and Active Members.
+
+**4.9 Patronage Dividends**
+
+4.9.1 Patronage Dividends may be issued as:
+
+4.9.1.1 Qualified written notices of allocation, with at least twenty percent (20%) paid in cash within eight and one-half (8.5) months of fiscal year-end, per IRC § 1388;
+
+4.9.1.2 Non-qualified written notices, fully credited to Capital Accounts, payable at the Board’s discretion.
+
+4.9.2 The Board shall determine the form and timing of Patronage Dividends by March 31 of the following year, notifying Members via written or Electronic Transmission.
+
+4.9.3 Members shall report qualified notices on their tax returns per IRC § 1385(a), with the Company providing IRS Form 1099-PATR annually.
+
+**4.10 Periodic Distributions**
+
+4.10.1 The Company shall endeavor to distribute all amounts credited to Capital Accounts (excluding Initial Contributions) within three (3) years of crediting, subject to:
+
+4.10.1.1 The Company’s ability to pay debts as they become due;
+
+4.10.1.2 Maintenance of total assets exceeding total liabilities;
+
+4.10.1.3 Compliance with the Act and other applicable laws.
+
+4.10.2 Distributions shall prioritize the oldest credited amounts, unless the Board accelerates repayment of terminated Members’ balances, with notice to all Members.
+
+4.10.3 If insufficient funds exist, distributions shall be pro rata based on Capital Account balances, detailed in the annual financial report.
+
+**4.11 Member Loans**
+
+4.11.1 Members may provide short-term, interest-free loans to the Company with unanimous Active Member approval, not credited to Capital Accounts.
+
+4.11.2 The Board shall negotiate repayment terms, prioritizing such loans over distributions, documented in writing within ten (10) business days of approval.
+
+### ARTICLE 5: BOARD OF MANAGERS
+
+**5.1 Management Structure**
+
+5.1.1 The Company shall be manager-managed, with all powers, business, and affairs vested in the Board of Managers, subject to Active Member oversight as specified herein.
+
+5.1.2 The Board shall operate collectively, with no single Manager having unilateral authority unless expressly delegated by a Board resolution.
+
+**5.2 Number and Qualifications**
+
+5.2.1 The Board shall consist of a minimum of two (2) Managers or ten percent (10%) of the total number of Active Members, whichever is greater, up to a maximum of ten (10) Managers.
+
+5.2.2 All Managers must be Active Members in good standing, with demonstrated competence in Company operations or technology services.
+
+5.2.3 The initial Managers shall be Destinee Brillian Orr, Kevin Harmon, and Patrick Burch, serving until the first annual meeting or their successors are elected.
+
+**5.3 Term**
+
+5.3.1 Each Manager shall serve a term of two (2) years, commencing at the annual meeting of election, and may serve consecutive terms without limit.
+
+5.3.2 A Manager’s term ends upon expiration, resignation, removal, or loss of Active Member status, with successors elected per Section 5.4.
+
+**5.4 Election and Removal**
+
+5.4.1 Managers shall be elected by a majority vote of Active Members at the annual meeting or a special meeting called for that purpose, with nominations open to all Active Members.
+
+5.4.2 In case of a vacancy, Active Members shall elect a replacement by majority vote within sixty (60) days to serve the unexpired term.
+
+5.4.3 A Manager may be removed by a seventy-five percent (75%) vote of Active Members, with cause (e.g., neglect of duties, misconduct) stated in a notice provided ten (10) days prior to the vote.
+
+5.4.4 The Board may remove a Manager by unanimous vote of remaining Managers if the Manager fails to respond to Board communications for fourteen (14) consecutive days and does not reply to a removal notice within forty-eight (48) hours.
+
+**5.5 Duties and Powers**
+
+5.5.1 The Board shall:
+
+5.5.1.1 Develop and propose an annual budget for Active Member approval by majority vote;
+
+5.5.1.2 Approve new projects and determine revenue allocation (e.g., wages vs. Collective Account);
+
+5.5.1.3 Hire, supervise, and terminate non-Member employees or contractors;
+
+5.5.1.4 Recommend prospective Members for admission per Article 3, Section 4;
+
+5.5.1.5 Manage day-to-day operations, including contract execution, financial oversight, and compliance with this Agreement and the Act;
+
+5.5.1.6 Delegate specific tasks to Officers or committees as needed, with clear written instructions.
+
+5.5.2 The Board may refer any matter to Active Members for decision by majority vote, ensuring cooperative governance.
+
+**5.6 Meetings**
+
+5.6.1 Regular meetings shall occur at least quarterly, with the first annual meeting within ninety (90) days of the Effective Date, scheduled by the President with two (2) days’ written notice.
+
+5.6.2 Special meetings may be called by any Manager with forty-eight (48) hours’ notice, specifying the purpose.
+
+5.6.3 Meetings may be held in person or via teleconference, provided all participants can hear each other simultaneously, constituting presence per Tenn. Code Ann. § 48-249-307.
+
+5.6.4 Minutes shall be recorded by the Secretary, distributed to all Members within seven (7) days via Electronic Transmission, unless deemed confidential by unanimous Board vote.
+
+**5.7 Quorum and Voting**
+
+5.7.1 A majority of Managers then serving (e.g., 2 of 3, 3 of 5) shall constitute a quorum for transacting business.
+
+5.7.2 Each Manager shall have one (1) vote, with decisions requiring a majority of those present at a quorate meeting.
+
+5.7.3 Tie votes shall defer action until the next meeting or resolution by Active Members if urgent.
+
+**5.8 Action Without Meeting**
+
+5.8.1 The Board may act without a meeting if:
+
+5.8.1.1 All Managers receive written notice of the proposed action at least forty-eight (48) hours in advance;
+
+5.8.1.2 A majority of Managers submit written consents via Electronic Transmission;
+
+5.8.1.3 Such consents are filed with the Company’s records within five (5) business days.
+
+**5.9 Compensation**
+
+5.9.1 Managers may receive reasonable compensation for their services in their capacity as Manager, as determined by a majority vote of Active Members annually, not to exceed 200% of the lowest paid Member per Manager without seventy-five percent (75%) approval of Active Members.
+
+5.9.2 The Company shall reimburse Managers for documented expenses incurred in performing their duties, with receipts submitted within thirty (30) days.
+
+**5.10 Conflicts of Interest**
+
+5.10.1 A Manager with a material financial interest in a transaction (beyond their Membership Interest) or other conflict impairing impartiality shall:
+
+5.10.1.1 Disclose the conflict and all relevant facts to the Board in writing prior to deliberation;
+
+5.10.1.2 Recuse themselves from voting, though they may provide requested information;
+
+5.10.1.3 Ensure the transaction is approved by a majority of disinterested Managers.
+
+5.10.2 Failure to disclose a conflict may result in suspension per Article 3, Section 8.
+
+**ARTICLE 6: OFFICERS**
+
+6.1 Designation and Qualifications
+
+6.1.1 The Board shall appoint a President, Treasurer, and Secretary from among the Active Members, and may designate additional officers (e.g., Vice President) as needed.
+
+6.1.2 Officers must be Active Members, with no individual serving in multiple capacities requiring simultaneous signature authority (e.g., Treasurer and Secretary on checks).
+
+**6.2 Term and Removal**
+
+6.2.1 Officers shall serve one (1)-year terms, renewable by Board majority vote, until resignation or removal.
+
+6.2.2 The Board may remove an Officer with or without cause by majority vote, effective immediately upon notice to the Officer.
+
+6.2.3 Resignation shall be effective upon written notice to the Board, unless a later date is specified, not exceeding thirty (30) days.
+
+**6.3 President**
+
+6.3.1 The President shall:
+
+6.3.1.1 Preside over all Board and Member meetings, ensuring orderly conduct;
+
+6.3.1.2 Execute contracts, deeds, and other instruments on behalf of the Company as authorized by the Board;
+
+6.3.1.3 Coordinate Board activities and report to Active Members annually.
+
+**6.4 Treasurer**
+
+6.4.1 The Treasurer shall:
+
+6.4.1.1 Oversee financial management, maintaining accurate books under GAAP;
+
+6.4.1.2 Deposit and disburse funds as directed by the Board, using designated accounts;
+
+6.4.1.3 Provide quarterly financial reports to the Board and an annual report to Members;
+
+6.4.1.4 Advise the Board on significant financial matters requiring action.
+
+**6.5 Secretary**
+
+6.5.1 The Secretary shall:
+
+6.5.1.1 Record and maintain minutes of all Board and Member meetings, distributing them within seven (7) days;
+
+6.5.1.2 Issue notices for meetings per Articles 5 and 7;
+
+6.5.1.3 Maintain a current Member roster with contact details, updated quarterly;
+
+6.5.1.4 Authenticate Company records as needed.
+
+**6.6 Compensation**
+
+6.6.1 Officers shall receive no additional compensation for the position beyond Manager compensation unless approved by a majority of Active Members, documented in meeting minutes.
+
+
+### ARTICLE 7: MEMBER MEETINGS AND VOTING
+
+**7.1 Annual Meeting**
+
+7.1.1 Active Members shall hold an annual meeting within ninety (90) days of fiscal year-end (December 31) to review finances, elect Managers, and address other business.
+
+7.1.2 The Board shall set the date, time, and location, with flexibility to delegate to Members by majority vote.
+
+7.1.3 If a quorum is not achieved, the meeting shall be rescheduled within thirty (30) days.
+
+**7.2 Special Meetings**
+
+7.2.1 Special meetings may be called by the Board or twenty percent (20%) of Active Members, with a written request stating the purpose submitted to the Secretary.
+
+7.2.2 The Secretary shall schedule the meeting within fifteen (15) days of the request, unless urgent, requiring forty-eight (48) hours’ notice.
+
+**7.3 Notice**
+
+7.3.1 Written notice of annual meetings shall be provided fourteen (14) days in advance, and seven (7) days for special meetings, via Electronic Transmission or mail to each Active Member’s last known address.
+
+7.3.2 Notices shall include the date, time, location, agenda, and any proposed amendments to this Agreement or the Articles.
+
+**7.4 Quorum and Voting**
+
+7.4.1 A majority of Active Members present in person or via remote means shall constitute a quorum.
+
+7.4.2 Each Active Member shall have one (1) vote, with decisions requiring a majority of those present unless otherwise specified (e.g., 75% for removal).
+
+7.4.3 Remote participation via teleconference or video conference is permitted, counting toward quorum per Tenn. Code Ann. § 48-249-307.
+
+**7.5 Action Without Meeting**
+
+7.5.1 Active Members may act without a meeting if:
+
+7.5.1.1 The Board provides written notice of the proposed action and a seven (7)-day voting deadline;
+
+7.5.1.2 A majority of Active Members submit affirmative votes via Electronic Transmission;
+
+7.5.1.3 Votes are filed with the Secretary within five (5) business days.
+
+**7.6 Proxies**
+
+7.6.1 Active Members may appoint proxies in writing, valid for eleven (11) months unless otherwise stated, delivered to the Secretary before the meeting.
+
+**7.7 Required Approvals**
+
+7.7.1 The following actions require Active Member approval by majority vote unless otherwise noted:
+
+7.7.1.1 Annual budgets;
+
+7.7.1.2 Admission and removal of Members (75%);
+
+7.7.1.3 Manager compensation (75%);
+
+7.7.1.4 Amendments to this Agreement or Articles (75%);
+
+7.7.1.5 Dissolution (unanimous).
+
+### ARTICLE 8: DISSOLUTION AND WINDING UP
+
+**8.1 Events of Dissolution**
+
+8.1.1 The Company shall dissolve upon:
+
+8.1.1.1 Unanimous written consent of all Active Members;
+
+8.1.1.2 An event rendering it unlawful or impossible to continue operations (e.g., loss of licensure);
+
+8.1.1.3 Sale or disposition of all or substantially all assets without replacement within ninety (90) days.
+
+8.1.2 The Board shall provide written notice to all Members within five (5) business days of a dissolution event, initiating winding-up procedures.
+
+**8.2 Winding Up**
+
+8.2.1 The Board, or a liquidator appointed by majority vote of Active Members if the Board is unable, shall wind up the Company’s affairs per Tenn. Code Ann. § 48-249-601 et seq.
+
+8.2.2 Assets shall be liquidated in an orderly manner, with proceeds applied as follows:
+
+8.2.2.1 First, to creditors (excluding Members) in order of legal priority;
+
+8.2.2.2 Second, to Member loans per Article 4, Section 11;
+
+8.2.2.3 Third, to Members for positive Capital Account balances;
+
+8.2.2.4 Fourth, to current and former Members proportional to aggregate Patronage Contributions.
+
+8.2.3 Distributions may be in cash or in kind, as determined by the Board or liquidator, with a final accounting provided to all Members within ninety (90) days of dissolution.
+
+**8.3 Termination**
+
+8.3.1 Upon completion of winding up, the Board or liquidator shall file a Certificate of Dissolution with the Tennessee Secretary of State, terminating the Company’s legal existence.
+
+### ARTICLE 9: BOOKS, RECORDS, AND REPORTING
+
+**9.1 Books and Records**
+
+9.1.1 The Company shall maintain at its principal office or a secure digital server:
+
+9.1.1.1 Complete books of account under GAAP;
+
+9.1.1.2 Copies of the Articles, this Agreement, and all amendments;
+
+9.1.1.3 Minutes of Board and Member meetings;
+
+9.1.1.4 A current Member roster with names, addresses, and contact details;
+
+9.1.1.5 Federal, state, and local tax returns for the prior three (3) years.
+
+9.1.2 Members may inspect these records during regular business hours with reasonable notice, at their own expense.
+
+**9.2 Bank Accounts**
+
+9.2.1 All Company funds shall be deposited in accounts designated by the Board, with withdrawals authorized by the Treasurer or a Board-designated agent.
+
+9.2.2 Funds shall not be commingled with personal accounts of Members or others.
+
+**9.3 Fiscal Year**
+
+9.3.1 The fiscal year shall commence January 1 and end December 31 annually.
+
+**9.4 Annual Report**
+
+9.4.1 Within ninety (90) days of fiscal year-end, the Treasurer shall provide each Member an annual report including:
+
+9.4.1.1 Income statement;
+
+9.4.1.2 Balance sheet;
+
+9.4.1.3 Cash flow statement;
+
+9.4.1.4 Capital Account breakdown;
+
+9.4.1.5 Tax return copies.
+
+**9.5 Audits**
+
+9.5.1 Any Member may request an audit by an independent accounting firm, approved by the Board, with costs borne by the Company, limited to one (1) audit per fiscal year.
+
+### ARTICLE 10: INDEMNIFICATION AND INSURANCE
+
+**10.1 Indemnification**
+
+10.1.1 The Company may indemnify Members, Managers, or Officers against claims arising from their roles, if they acted in good faith and in the Company’s best interest, as determined by a majority vote of disinterested Managers.
+
+10.1.2 Indemnification shall not apply to gross negligence, willful misconduct, or breaches of this Agreement.
+
+**10.2 Insurance**
+
+10.2.1 The Board may purchase directors and officers (D&O) insurance, general liability insurance, and other policies deemed prudent, with coverage limits set annually.
+
+### ARTICLE 11: MISCELLANEOUS PROVISIONS
+
+**11.1 Governing Law**
+
+11.1.1 This Agreement shall be governed by and construed under the laws of Tennessee, without regard to conflict of law principles, with the Act controlling unresolved matters.
+
+**11.2 Entire Agreement**
+
+11.2.1 This Agreement constitutes the full and final understanding among the Members, superseding all prior agreements, negotiations, or representations, whether written or oral.
+
+**11.3 Amendments**
+
+11.3.1 Amendments to this Agreement or the Articles require a seventy-five percent (75%) vote of Active Members, except for Exhibit A updates by the Board.
+
+**11.4 Counterparts**
+
+11.4.1 This Agreement may be executed in multiple counterparts, each an original, collectively constituting one instrument, with electronic signatures valid per Tenn. Code Ann. § 48-249-103(8).
+
+**11.5 Severability**
+
+11.5.1 If any provision is deemed invalid by a court of competent jurisdiction, it shall be severed, and the remaining provisions shall remain enforceable to the fullest extent permitted by law.
+
+**11.6 Notices**
+
+11.6.1 Notices shall be effective upon:
+
+11.6.1.1 Hand delivery;
+
+11.6.1.2 Electronic Transmission with confirmation of receipt;
+
+11.6.1.3 Three (3) business days after mailing via U.S. certified mail, postage prepaid, to the Member’s address in Exhibit A.
+
+**11.7 Binding Effect**
+
+11.7.1 This Agreement binds the Members and their heirs, executors, administrators, successors, and permitted assigns.
+
+**SIGNATURES**
+
+**IN WITNESS WHEREOF,** the undersigned Members have executed this Agreement as of the Effective Date, affirming their commitment to its terms.
+
+__<span class="signature">Destinee Brillian Orr</span>_
+**Destinee Brillian Orr**
+Date: March 7, 2025
+__<span class="signature">Patrick Burch</span>_________
+**Patrick Burch**
+Date: March 7, 2025
+__<span class="signature">Kevin Harmon</span>__________
+**Kevin Harmon**
+Date: March 7, 2025
