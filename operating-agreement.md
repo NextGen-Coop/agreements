@@ -1,6 +1,6 @@
-# OPERATING AGREEMENT OF WORKERBEE TECH CO-OP LLC
+## OPERATING AGREEMENT OF WORKERBEE TECH CO-OP LLC
 
-###### A Tennessee Limited Liability Company
+#### A Tennessee Limited Liability Company
 
 **THIS OPERATING AGREEMENT** (the “Agreement”) is made and entered into as of the 7th day of March, 2025 (the "Effective Date"), by and between Destinee Brillian Orr, residing at 205 Pond Rd, Cottontown, TN 37048, USA, Patrick Burch, residing at 205 Walnut Lane Ext, Dyersburg, TN 38024, and Kevin Harmon, residing at 3371 Central Curve Rd, Ripley, TN 38063 each individually referred to as a "Member" and collectively as the "Members."
 
